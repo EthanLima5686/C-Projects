@@ -1,2 +1,2 @@
 # C-Projects
-Utility C projects
+Utility C projects to get familiar with the language
